@@ -1,0 +1,21 @@
+const TestimonialApi = [{
+    id:1,
+    image:"../../../image/real-estate.png",
+    design:"Whatever",
+    name:"Sir Harry",
+    officer:"Whomever",
+    post:"CEO",
+    date:"23 April 2023",
+    desc:"The quick brown fox jumped over the lazy dog",
+},
+    {id:2,
+    image:"../images/real-estate.png",
+    design:"Whatever",
+    name:"Sir Harry",
+    officer:"Whomever",
+    post:"CEO",
+    date:"23 April 2023",
+    desc:"The quick brown fox jumped over the lazy dog",
+},
+] 
+export default TestimonialApi;
